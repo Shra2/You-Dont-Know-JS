@@ -55,7 +55,7 @@ But a different, more important case still needs to be made, and these books ris
 
 I've taught more than 5,000 developers from teams and companies all over the world, in more than 25 countries on six continents. And what I've seen is that far too often, what *counts* is generally just the result of the program, not how the program is written or how/why it works.
 
-My experience not only as a developer but in teaching many other developers tells me: you will always be more effective in your development work if you more completely understand how your code works than you are solely *just* getting it to produce a desired outcome.
+My experience not only as a developer but in teaching many other developers tells me: you will always be more effective in your development work if you more completely understand how your code works rather than if you are solely *just* getting it to produce a desired outcome.
 
 In other words, *good enough to work* is not, and should not be, *good enough*.
 
